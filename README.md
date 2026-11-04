@@ -1,6 +1,12 @@
-# Fullstack-App – Template (BRG Kepler Graz, 7. Klasse)
+# Ich_Hertz_Programmieren
 
-Ein Repository für das ganze Modul **IT-31 Fullstack-App**. Du erweiterst es Aufgabe für Aufgabe.
+**Ich liebe Programmieren**
+
+Meine Fullstack-App für Aufgabe 31.1 am BRG Kepler Graz. Hier sammle ich
+Programmierideen und setze sie mit Frontend, Backend und Datenbank um.
+
+Das Projekt begleitet das Modul **IT-31 Fullstack-App** und wird Aufgabe für
+Aufgabe erweitert.
 
 ## Schnellstart
 
